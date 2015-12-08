@@ -8,6 +8,8 @@ public class FragTest {
     public FragTest(){
         String a = "aaaa";
         String b = "aaaa";
+        aaaa
+                aaa
     }
 
 
