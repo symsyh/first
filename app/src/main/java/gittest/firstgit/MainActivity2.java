@@ -13,6 +13,7 @@ public class MainActivity2 extends AppCompatActivity {
         TextView tv = new TextView(this);
         TextView tv2 = new TextView(this);
         TextView tv3 = new TextView(this);
+        int a = 0;
 
     }
 }
