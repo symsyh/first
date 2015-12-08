@@ -12,6 +12,7 @@ public class FragTest {
                 aaa
                 bbb
                         bbbsdfsdfsadfSsdfasdf
+                        ewdfsdf
     }
 
 
