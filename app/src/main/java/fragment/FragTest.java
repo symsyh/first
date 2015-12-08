@@ -10,6 +10,8 @@ public class FragTest {
         String b = "aaaa";
         aaaa
                 aaa
+                bbb
+                        bbbb
     }
 
 
